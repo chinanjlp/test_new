@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>441455934</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Source Code\Core\vector.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\Com_app.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\AllHeaderFiles1.h</file>
+      <file>$PROJ_DIR$\Source Code\Core\TMPM374_SYS.h</file>
+      <file>$PROJ_DIR$\Source Code\Core\CortexM3_SYS.h</file>
+      <file>$PROJ_DIR$\Source Code\Common\DAC.c</file>
+      <file>$PROJ_DIR$\Source Code\Core\ipdefine.h</file>
+      <file>$PROJ_DIR$\Source Code\Common\Display_Error.c</file>
+      <file>$PROJ_DIR$\Source Code\Core\sys_macro.h</file>
+      <file>$PROJ_DIR$\Source Code\Core\system_int.c</file>
+      <file>$PROJ_DIR$\Source Code\Core\system_int.h</file>
+      <file>$PROJ_DIR$\Source Code\Core\tmpm374_sys.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\AllHeaderFiles2.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Display_Error.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\List\main.s</file>
+      <file>$PROJ_DIR$\HA RM_WM_M374.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\D_Driver.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\Com_app.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\Customer_app.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Debug\List\Com_app.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_int.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\initial.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\interrupt.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_int.o</file>
+      <file>$PROJ_DIR$\Debug\List\UART.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\Display_Error.o</file>
+      <file>$PROJ_DIR$\Source Code\WM\Customer_app.h</file>
+      <file>$PROJ_DIR$\Debug\List\UART.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\D_Driver.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\HA RM_WM_M374.out</file>
+      <file>$PROJ_DIR$\Source Code\Common\UART.c</file>
+      <file>$PROJ_DIR$\Debug\List\Customer_app.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\WM.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\D_MotorStop.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\HA RM_WM_M374.pbd</file>
+      <file>$PROJ_DIR$\Debug\List\main.lst</file>
+      <file>$PROJ_DIR$\Debug\List\interrupt.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\initial.o</file>
+      <file>$PROJ_DIR$\Debug\List\Display_Error.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\interrupt.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\List\WM.lst</file>
+      <file>$PROJ_DIR$\Debug\List\SignalCheck.lst</file>
+      <file>$PROJ_DIR$\Debug\List\Customer_app.lst</file>
+      <file>$PROJ_DIR$\Debug\List\interrupt.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\Customer_app.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\Display_Error.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\vector.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\initial.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DAC.o</file>
+      <file>$PROJ_DIR$\Debug\List\system_int.s</file>
+      <file>$PROJ_DIR$\Debug\List\system_int.lst</file>
+      <file>$PROJ_DIR$\Debug\List\initial.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tmpm374_sys.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\vector.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\D_Driver.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\List\initial.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\SignalCheck.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\DAC.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\vector.pbi</file>
+      <file>$PROJ_DIR$\Source Code\Common\UART.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tmpm374_sys.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\SignalCheck.o</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_int.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\SignalCheck.s</file>
+      <file>$PROJ_DIR$\Debug\List\DAC.s</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\D_MotorStop.o</file>
+      <file>$PROJ_DIR$\Debug\List\Display_Error.lst</file>
+      <file>$PROJ_DIR$\Debug\List\Com_app.s</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tmpm374_sys.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Com_app.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\vector.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\D_MotorStop.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\List\D_Driver.lst</file>
+      <file>$PROJ_DIR$\Source Code\WM\Com_app.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\D_Driver.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\Customer_app.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\D_Driver.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\D_MotorStop.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\D_MotorStop.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\D_Para.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\initial.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\initial.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\interrupt.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\interrupt.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\M_Driver.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\M_Driver_20170704.a</file>
+      <file>$PROJ_DIR$\Source Code\WM\main.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\main.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\port_def.h</file>
+      <file>$PROJ_DIR$\Source Code\WM\SignalCheck.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\SignalCheck.h</file>
+      <file>$PROJ_DIR$\Debug\List\D_MotorStop.s</file>
+      <file>$PROJ_DIR$\Source Code\WM\WM.c</file>
+      <file>$PROJ_DIR$\Source Code\WM\WM.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\WM.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\DAC.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\WM.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\tmpm374_sys.s</file>
+      <file>$PROJ_DIR$\Debug\List\DAC.lst</file>
+      <file>$PROJ_DIR$\Debug\List\D_MotorStop.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\SignalCheck.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Customer_app.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\interrupt.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Com_app.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\cmsis_compiler.h</file>
+      <file>$PROJ_DIR$\Debug\List\D_Driver.s</file>
+      <file>$PROJ_DIR$\Debug\List\WM.s</file>
+      <file>$PROJ_DIR$\Debug\List\tmpm374_sys.lst</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\Debug\List\vector.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Source Code\Core\vector.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 135 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\Com_app.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 86 23 129</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 95 12 98 112 103 105 106 136 70 109 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 76 89 62 28 4 3 61 77 106 8 95 79 93 22 134 130 98 34 48 12 128 101 10 6 110 83 87 30 103 109 100 2 112 105 115 136 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\Common\DAC.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82 123 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 12 98 112 103 105 106 136 70 109 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 19 30 101 61 128 10 110 48 83 87 79 112 115 8 70 12 89 3 4 93 76 22 77 62 134 130 28 105 95 136 2 98 103 106 109 34 100</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\Common\Display_Error.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46 85 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 12 98 112 103 105 106 136 70 109 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 3 77 95 89 4 76 19 62 28 8 105 136 79 93 22 134 130 112 6 115 70 12 128 101 10 110 48 83 87 30 98 103 106 109 34 100 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\Core\system_int.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58 59 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\Core\tmpm374_sys.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122 133 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 88</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3 134 30 19 61 76 22 77 93 83 130 28 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 134 30 19 93 83 28 3 130 61 76 79 22 77</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\HA RM_WM_M374.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 15 129 21 65 84 57 33 45 47 107 118 74 31 73 64 40 78 66 20 75</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\Common\UART.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32 35 25</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 72 12 98 112 103 105 106 136 70 109 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 79 93 22 19 109 101 134 130 72 89 3 4 61 76 77 62 28 103 100 12 128 10 6 110 48 83 87 30 98 106 34 2 112 105 95 115 136 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\D_Driver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 131 94 65</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 98 12 112 103 105 106 136 70 109 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 105 130 93 134 48 79 22 19 95 98 89 3 4 61 76 77 62 28 112 6 115 101 12 128 10 110 83 87 30 103 106 109 34 100 136 70 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\Customer_app.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39 51 21</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 12 98 112 103 105 106 136 70 109 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 48 10 128 110 83 61 87 6 101 19 30 112 115 8 70 12 89 3 4 93 76 22 77 62 134 130 28 105 95 136 2 98 103 106 109 34 100</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\D_MotorStop.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113 124 84</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 92</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 100 12 98 112 103 105 106 136 70 109 95 34 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103 93 22 19 79 100 8 134 130 109 101 89 3 4 61 76 77 62 28 98 106 34 48 12 128 10 6 110 83 87 30 112 105 95 115 136 70 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\initial.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 67 60 45</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 12 98 112 103 105 106 136 70 109 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 110 128 83 87 106 8 10 48 79 98 34 101 6 19 30 103 109 100 12 89 3 4 93 76 22 77 62 134 130 28 112 105 95 115 136 2 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\interrupt.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52 44 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 105 12 98 112 103 106 136 70 109 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93 134 8 130 100 79 22 19 103 6 105 89 3 4 61 76 77 62 28 109 70 12 128 101 10 110 48 83 87 30 98 106 34 136 2 112 95 115</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 43 118</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 109 12 98 112 103 105 106 136 70 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 134 93 8 30 103 12 79 22 19 100 6 89 3 4 61 76 77 62 109 101 128 10 110 48 83 87 98 106 34 2 130 28 112 105 95 115 136 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\SignalCheck.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 81 50 74</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 112 12 98 103 105 106 136 70 109 95 34 115 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87 128 83 61 112 136 110 115 10 48 79 6 101 19 30 105 95 70 12 89 3 8 4 93 76 22 77 62 134 130 28 98 103 106 109 34 100 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source Code\WM\WM.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132 49 40</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 117</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 120</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 89 19 61 76 22 77 93 83 48 128 62 87 79 101 3 134 30 130 28 10 8 6 4 110 115 12 98 112 103 105 106 136 70 109 95 34 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98 48 3 77 61 30 89 4 76 19 62 34 115 79 8 93 22 134 130 106 12 128 101 10 6 110 83 87 103 109 100 2 28 112 105 95 136 70</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
